@@ -9,3 +9,5 @@ apt-get install git-core
 apt-get install libjpeg-dev
 apt-get build-dep pillow
 apt-get install libxml2-dev libxslt1-dev
+#for database
+apt-get install libpq-dev 
